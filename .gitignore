@@ -1,0 +1,32 @@
+## Core LaTeX auxiliary files
+*.aux
+*.fdb_latexmk
+*.fls
+*.glg
+*.glo
+*.gls
+*.idx
+*.ilg
+*.ind
+*.ist
+*.log
+*.out
+*.toc
+*.snm
+*.nav
+*.vrb
+*.pdf
+
+## Bibliography files
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+
+## Build tool files
+*.synctex.gz
+*.synctex(busy)
+*.pdfsync
+
+## VS Code specific
+.vscode/
